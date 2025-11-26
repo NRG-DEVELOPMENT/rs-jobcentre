@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'NRG Development'
 description 'Advanced Job Centre for FiveM servers'
-version '1.0.0'
+version '1.0.1'
 
 shared_scripts {
     'config.lua',
